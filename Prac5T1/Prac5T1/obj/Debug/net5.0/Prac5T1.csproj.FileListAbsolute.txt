@@ -1,0 +1,15 @@
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/bin/Debug/net5.0/Prac5T1.deps.json
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/bin/Debug/net5.0/Prac5T1.runtimeconfig.json
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/bin/Debug/net5.0/Prac5T1.runtimeconfig.dev.json
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/bin/Debug/net5.0/Prac5T1.dll
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/bin/Debug/net5.0/ref/Prac5T1.dll
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/bin/Debug/net5.0/Prac5T1.pdb
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.csproj.AssemblyReference.cache
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.AssemblyInfoInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.AssemblyInfo.cs
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.csproj.CoreCompileInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.dll
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/ref/Prac5T1.dll
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.pdb
+/Users/tshegofatsoledwaba/Projects/Week 5/Prac5T1/Prac5T1/obj/Debug/net5.0/Prac5T1.genruntimeconfig.cache
