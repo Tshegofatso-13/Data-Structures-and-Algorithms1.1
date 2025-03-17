@@ -1,0 +1,13 @@
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/bin/Debug/netcoreapp2.1/Prac2T3.deps.json
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/bin/Debug/netcoreapp2.1/Prac2T3.runtimeconfig.json
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/bin/Debug/netcoreapp2.1/Prac2T3.runtimeconfig.dev.json
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/bin/Debug/netcoreapp2.1/Prac2T3.dll
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/bin/Debug/netcoreapp2.1/Prac2T3.pdb
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.csproj.AssemblyReference.cache
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.AssemblyInfoInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.AssemblyInfo.cs
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.csproj.CoreCompileInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.dll
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.pdb
+/Users/tshegofatsoledwaba/Projects/Week 2 Coding/Prac2T3/Prac2T3/obj/Debug/netcoreapp2.1/Prac2T3.genruntimeconfig.cache
