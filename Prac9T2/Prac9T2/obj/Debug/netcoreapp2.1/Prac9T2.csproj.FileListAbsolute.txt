@@ -1,0 +1,13 @@
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/bin/Debug/netcoreapp2.1/Prac9T2.deps.json
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/bin/Debug/netcoreapp2.1/Prac9T2.runtimeconfig.json
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/bin/Debug/netcoreapp2.1/Prac9T2.runtimeconfig.dev.json
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/bin/Debug/netcoreapp2.1/Prac9T2.dll
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/bin/Debug/netcoreapp2.1/Prac9T2.pdb
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.csproj.AssemblyReference.cache
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.AssemblyInfoInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.AssemblyInfo.cs
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.csproj.CoreCompileInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.dll
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.pdb
+/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/Debug/netcoreapp2.1/Prac9T2.genruntimeconfig.cache
