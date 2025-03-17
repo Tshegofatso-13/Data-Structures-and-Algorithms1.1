@@ -1,0 +1,13 @@
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/bin/Debug/netcoreapp3.1/Act1T7.deps.json
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/bin/Debug/netcoreapp3.1/Act1T7.runtimeconfig.json
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/bin/Debug/netcoreapp3.1/Act1T7.runtimeconfig.dev.json
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/bin/Debug/netcoreapp3.1/Act1T7.dll
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/bin/Debug/netcoreapp3.1/Act1T7.pdb
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.csproj.AssemblyReference.cache
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.AssemblyInfoInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.AssemblyInfo.cs
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.csproj.CoreCompileInputs.cache
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.dll
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.pdb
+/Users/tshegofatsoledwaba/Projects/Week 5/Act1T7/Act1T7/obj/Debug/netcoreapp3.1/Act1T7.genruntimeconfig.cache
