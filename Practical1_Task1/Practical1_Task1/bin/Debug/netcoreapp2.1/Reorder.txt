@@ -1,0 +1,7 @@
+001,Fries,Supper,23.15
+137,Egg roll,Breakfast,012.14
+369,Sandwich,Lunch,128.62
+896,Steak Wrap,Lunch,234.12
+658,Chicken Wrap,Lunch,139.98
+152,Chicken Nuggets,Lunch,114.88
+222,Hotdog,Lunch,027.57
