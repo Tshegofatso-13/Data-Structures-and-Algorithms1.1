@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/Prac9T2.csproj",
+      "projectUniqueName": "/Users/tshegofatsoledwaba/Projects/Week 9/Prac9T2/Prac9T2/Prac9T2.csproj",
       "projectName": "Prac9T2",
-      "projectPath": "/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/Prac9T2.csproj",
+      "projectPath": "/Users/tshegofatsoledwaba/Projects/Week 9/Prac9T2/Prac9T2/Prac9T2.csproj",
       "packagesPath": "/Users/tshegofatsoledwaba/.nuget/packages/",
-      "outputPath": "/Users/tshegofatsoledwaba/Projects/Week 8/Prac9T2/Prac9T2/obj/",
+      "outputPath": "/Users/tshegofatsoledwaba/Projects/Week 9/Prac9T2/Prac9T2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
